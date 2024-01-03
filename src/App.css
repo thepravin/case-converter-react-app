@@ -1,0 +1,59 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Karla:ital@1&family=Lora:ital,wght@1,500&family=Lumanosimo&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400;6..12,700&family=Oswald:wght@500&family=Poppins:wght@300&family=Roboto+Slab:wght@700&family=Rubik+Doodle+Shadow&display=swap');
+
+
+
+.heading{
+  color: black;
+  font-size: 3rem;
+  text-align: center;
+  font-family: Rubik Doodle Shadow;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.heading-line{
+  margin:auto;
+  background: black;
+  width: 200px;
+  height: 4px;
+}
+
+/* buttons */
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-lowerCase{
+  display: flex;
+ 
+  margin-top: 40px !important;
+  /* margin: auto; */
+  background-color: #555555;
+  color: white;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-left: 12px;
+  font-size: 20px;
+}
+.btn-lowerCase:hover{
+  background-color: #8d8a8a;
+  transition: none;
+  color: black;
+  box-shadow: 20px !important;
+}
+
+
+/* Bold Text */
+.boldText{
+  font-weight: bold;
+  
+}
