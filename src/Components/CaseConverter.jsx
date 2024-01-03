@@ -19,7 +19,7 @@ export default function Input() {
 
   return (
     <>
-      <h1 className="heading">Case Converter</h1>
+      <h1 className="heading">Case Converter...</h1>
       <TextareaAutosize
         placeholder="Enter text..."
         minRows={20}
